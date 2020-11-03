@@ -4,4 +4,8 @@ class Polygon {
     this.sides = sides
     this.countSides = this.sides.lengh
   }
+
+  get countSides {
+    
+  }
 }
