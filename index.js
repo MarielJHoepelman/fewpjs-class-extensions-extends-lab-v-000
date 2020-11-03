@@ -1,4 +1,4 @@
 // Your code here
-class Polygon(sides){
+class Polygon(sides) {
 console.log(sides)
 }
