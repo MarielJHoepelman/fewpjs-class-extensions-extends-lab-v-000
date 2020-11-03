@@ -15,7 +15,7 @@ class Polygon {
 
 class Triangle extends Polygon {
 
-  isGreater(array) {
+  isGreater(sides) {
     return this.sides[i] + this.sides[i]) > this.sides[i]
   }
   get isValid(){
