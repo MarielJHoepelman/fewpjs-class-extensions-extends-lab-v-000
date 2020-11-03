@@ -8,7 +8,7 @@ class Polygon {
   return this.sides.length
   }
 
-  get perimeter(sides) {
+  get perimeter {
     return sides.reduce((total, element) => element + total, 0)
   // let totalBatteries = batteryBatches.reduce((total, element) => element + total, 0);
   }
