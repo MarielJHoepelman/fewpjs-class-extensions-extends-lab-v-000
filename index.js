@@ -28,6 +28,6 @@ class Square extends Polygon {
 
     get isValid(){
       let side = this.sides[0];
-      return this.sides.every((index) => index === side)
+      return this.sides.every((index) => index === his.sides[0])
     }
 }
