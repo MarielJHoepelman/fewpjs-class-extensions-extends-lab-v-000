@@ -6,6 +6,6 @@ class Polygon {
   }
 
   get countSides() {
-  return this.sides.lengh
+  return this.sides.length
   }
 }
