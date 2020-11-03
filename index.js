@@ -23,6 +23,6 @@ class Triangle extends Polygon {
 
 class Square extends Polygon {
     get area(){
-      return Math.pow(this.side, 2);
+      return Math.pow(this.side[0], 2);
     }
 }
