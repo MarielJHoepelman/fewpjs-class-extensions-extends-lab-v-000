@@ -25,4 +25,8 @@ class Square extends Polygon {
     get area(){
       return Math.pow(this.sides[0], 2);
     }
+
+    get isValid(){
+      
+    }
 }
