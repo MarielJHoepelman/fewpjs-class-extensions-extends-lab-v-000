@@ -1,4 +1,6 @@
 // Your code here
-class Polygon(sides) {
-console.log(sides)
+class Polygon{
+  constructor(sides) {
+    this.sides = sides 
+  }
 }
